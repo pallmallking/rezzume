@@ -1,0 +1,4 @@
+tkinter
+fpdf2
+pyspellchecker
+python-docx
